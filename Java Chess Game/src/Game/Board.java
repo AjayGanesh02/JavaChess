@@ -1,6 +1,10 @@
 package Game;
+import javax.swing.JFrame;
 
-public class Board {
+public class Board  {
+	
+	JFrame board = new JFrame("Java Chess by Ajay Ganesh");
+	
 	
 	
 	
